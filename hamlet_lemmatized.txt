@@ -65,7 +65,7 @@
 1.2    have you your father leave what say polonius
 1.2    he hath my lord wrung from me my slow leave by laboursome petition and at last upon his will i seald my hard consent i do beseech you give him leave to go
 1.2    take thy fair hour laertes time be thine and thy best grace spend it at thy will but now my cousin hamlet and my son
-1.2    aside a little more than kin and le than kind
+1.2    a little more than kin and le than kind
 1.2    how is it that the cloud still hang on you
 1.2    not so my lord i am too much i the sun
 1.2    good hamlet cast thy nighted colour off and let thine eye look like a friend on denmark do not for ever with thy vailed lid seek for thy noble father in the dust thou knowst ti common all that life must die passing through nature to eternity
@@ -206,11 +206,11 @@
 1.5    o my prophetic soul my uncle
 1.5    ay that incestuous that adulterate beast with witchcraft of his wit with traitorous gift o wicked wit and gift that have the power so to seducewon to his shameful lust the will of my most seemingvirtuous queen o hamlet what a fallingoff wa there from me whose love wa of that dignity that it went hand in hand even with the vow i made to her in marriage and to decline upon a wretch whose natural gift were poor to those of mine but virtue a it never will be moved though lewdness court it in a shape of heaven so lust though to a radiant angel linkd will sate itself in a celestial bed and prey on garbage but soft methinks i scent the morning air brief let me be sleeping within my orchard my custom always of the afternoon upon my secure hour thy uncle stole with juice of cursed hebenon in a vial and in the porch of my ear did pour the leperous distilment whose effect holds such an enmity with blood of man that swift a quicksilver it course through the natural gate and alley of the body and with a sudden vigour doth posset and curd like eager droppings into milk the thin and wholesome blood so did it mine and a most instant tetter barkd about most lazarlike with vile and loathsome crust all my smooth body thus wa i sleeping by a brother hand of life of crown of queen at once dispatchd cut off even in the blossom of my sin unhouseld disappointed unaneld no reckoning made but sent to my account with all my imperfection on my head o horrible o horrible most horrible if thou hast nature in thee bear it not let not the royal bed of denmark be a couch for luxury and damned incest but howsoever thou pursuest this act taint not thy mind nor let thy soul contrive against thy mother aught leave her to heaven and to those thorn that in her bosom lodge to prick and sting her fare thee well at once the glowworm show the matin to be near and gin to pale his uneffectual fire adieu adieu hamlet remember me
 1.5    o all you host of heaven o earth what else and shall i couple hell o fie hold hold my heart and you my sinew grow not instant old but bear me stiffly up remember thee ay thou poor ghost while memory hold a seat in this distracted globe remember thee yea from the table of my memory ill wipe away all trivial fond record all saw of book all form all pressure past that youth and observation copied there and thy commandment all alone shall live within the book and volume of my brain unmixd with baser matter yes by heaven o most pernicious woman o villain villain smiling damned villain my tablesmeet it is i set it down that one may smile and smile and be a villain at least im sure it may be so in denmark so uncle there you are now to my word it is adieu adieu remember me i have sworn t
-1.5    within my lord my lord
-1.5    withinlord hamlet
-1.5    withinheaven secure him
+1.5    my lord my lord
+1.5    lord hamlet
+1.5    heaven secure him
 1.5    so be it
-1.5    within hillo ho ho my lord
+1.5    hillo ho ho my lord
 1.5    hillo ho ho boy come bird come
 1.5    how ist my noble lord
 1.5    what news my lord
@@ -237,17 +237,17 @@
 1.5    upon my sword
 1.5    we have sworn my lord already
 1.5    indeed upon my sword indeed
-1.5    beneath swear
+1.5    swear
 1.5    ah ha boy sayst thou so art thou there truepenny come onyou hear this fellow in the cellarage consent to swear
 1.5    propose the oath my lord
 1.5    never to speak of this that you have seen swear by my sword
-1.5    beneath swear
+1.5    swear
 1.5    hic et ubique then well shift our ground come hither gentleman and lay your hand again upon my sword never to speak of this that you have heard swear by my sword
-1.5    beneath swear
+1.5    swear
 1.5    well said old mole canst work i the earth so fast a worthy pioner once more remove good friend
 1.5    o day and night but this is wondrous strange
 1.5    and therefore a a stranger give it welcome there are more thing in heaven and earth horatio than are dreamt of in your philosophy but come here a before never so help you mercy how strange or odd soeer i bear myself as i perchance hereafter shall think meet to put an antic disposition on that you at such time seeing me never shall with arm encumberd thus or this headshake or by pronouncing of some doubtful phrase as well well we know or we could an if we would or if we list to speak or there be an if they might or such ambiguous giving out to note that you know aught of me this not to do so grace and mercy at your most need help you swear
-1.5    beneath swear
+1.5    swear
 1.5    rest rest perturbed spirit so gentleman with all my love i do commend me to you and what so poor a man a hamlet is may do to express his love and friending to you god willing shall not lack let u go in together and still your finger on your lip i pray the time is out of joint o cursed spite that ever i wa born to set it right nay come let go together
 2.1    give him this money and these note reynaldo
 2.1    i will my lord
@@ -336,13 +336,13 @@
 2.2    for if the sun breed maggot in a dead dog being a god kissing carrionhave you a daughter
 2.2    i have my lord
 2.2    let her not walk i the sun conception is a blessing but not a your daughter may conceive friend look to t
-2.2    aside how say you by that still harping on my daughter yet he knew me not at first he said i wa a fishmonger he is far gone far gone and truly in my youth i suffered much extremity for love very near this ill speak to him again what do you read my lord
+2.2    how say you by that still harping on my daughter yet he knew me not at first he said i wa a fishmonger he is far gone far gone and truly in my youth i suffered much extremity for love very near this ill speak to him again what do you read my lord
 2.2    words word word
 2.2    what is the matter my lord
 2.2    between who
 2.2    i mean the matter that you read my lord
 2.2    slanders sir for the satirical rogue say here that old men have grey beard that their face are wrinkled their eye purging thick amber and plumtree gum and that they have a plentiful lack of wit together with most weak ham all which sir though i most powerfully and potently believe yet i hold it not honesty to have it thus set down for yourself sir should be old a i am if like a crab you could go backward
-2.2    aside though this be madness yet there is method in t will you walk out of the air my lord
+2.2    though this be madness yet there is method in t will you walk out of the air my lord
 2.2    into my grave
 2.2    indeed that is out o the air how pregnant sometimes his reply are a happiness that often madness hit on which reason and sanity could not so prosperously be delivered of i will leave him and suddenly contrive the mean of meeting between him and my daughtermy honourable lord i will most humbly take my leave of you
 2.2    you cannot sir take from me any thing that i will more willingly part withal except my life except my life except my life
@@ -383,7 +383,7 @@
 2.2    to what end my lord
 2.2    that you must teach me but let me conjure you by the right of our fellowship by the consonancy of our youth by the obligation of our everpreserved love and by what more dear a better proposer could charge you withal be even and direct with me whether you were sent for or no
 2.2    aside to guildenstern what say you
-2.2    aside nay then i have an eye of youif you love me hold not off
+2.2    nay then i have an eye of youif you love me hold not off
 2.2    my lord we were sent for
 2.2    i will tell you why so shall my anticipation prevent your discovery and your secrecy to the king and queen moult no feather i have of latebut wherefore i know notlost all my mirth forgone all custom of exercise and indeed it go so heavily with my disposition that this goodly frame the earth seems to me a sterile promontory this most excellent canopy the air look you this brave oerhanging firmament this majestical roof fretted with golden fire why it appears no other thing to me than a foul and pestilent congregation of vapour what a piece of work is a man how noble in reason how infinite in faculty in form and moving how express and admirable in action how like an angel in apprehension how like a god the beauty of the world the paragon of animal and yet to me what is this quintessence of dust man delight not me no nor woman neither though by your smiling you seem to say so
 2.2    my lord there wa no such stuff in my thought
@@ -422,7 +422,7 @@
 2.2    o jephthah judge of israel what a treasure hadst thou
 2.2    what a treasure had he my lord
 2.2    why one fair daughter and no more the which he loved passing well
-2.2    aside still on my daughter
+2.2    still on my daughter
 2.2    am i not i the right old jephthah
 2.2    if you call me jephthah my lord i have a daughter that i love passing well
 2.2    nay that follows not
@@ -466,7 +466,7 @@
 3.1    i shall obey you and for your part ophelia i do wish that your good beauty be the happy cause of hamlets wildness so shall i hope your virtue will bring him to his wonted way again to both your honour
 3.1    madam i wish it may
 3.1    ophelia walk you here gracious so please you we will bestow ourselves read on this book that show of such an exercise may colour your loneliness we are oft to blame in this tis too much provedthat with devotion visage and pious action we do sugar oer the devil himself
-3.1    aside o ti too true how smart a lash that speech doth give my conscience the harlot cheek beautied with plastering art is not more ugly to the thing that help it than is my deed to my most painted word o heavy burthen
+3.1    o ti too true how smart a lash that speech doth give my conscience the harlot cheek beautied with plastering art is not more ugly to the thing that help it than is my deed to my most painted word o heavy burthen
 3.1    i hear him coming let withdraw my lord
 3.1    to be or not to be that is the question whether ti nobler in the mind to suffer the sling and arrow of outrageous fortune or to take arm against a sea of trouble and by opposing end them to die to sleep no more and by a sleep to say we end the heartache and the thousand natural shock that flesh is heir to ti a consummation devoutly to be wishd to die to sleep to sleep perchance to dream ay there the rub for in that sleep of death what dream may come when we have shuffled off this mortal coil must give u pause there the respect that make calamity of so long life for who would bear the whip and scorn of time the oppressor wrong the proud man contumely the pang of despised love the law delay the insolence of office and the spurns that patient merit of the unworthy take when he himself might his quietus make with a bare bodkin who would fardel bear to grunt and sweat under a weary life but that the dread of something after death the undiscoverd country from whose bourn no traveller return puzzle the will and make u rather bear those ill we have than fly to others that we know not of thus conscience doe make coward of u all and thus the native hue of resolution is sicklied oer with the pale cast of thought and enterprise of great pith and moment with this regard their current turn awry and lose the name of actionsoft you now the fair ophelia nymph in thy orison be all my sin rememberd
 3.1    good my lord how doe your honour for this many a day
@@ -552,7 +552,7 @@
 3.2    so many journey may the sun and moon make u again count oer ere love be done but woe is me you are so sick of late so far from cheer and from your former state that i distrust you yet though i distrust discomfort you my lord it nothing must for woman fear and love hold quantity in neither aught or in extremity now what my love is proof hath made you know and a my love is sized my fear is so where love is great the littlest doubt are fear where little fear grow great great love grows there
 3.2    faith i must leave thee love and shortly too my operant power their function leave to do and thou shalt live in this fair world behind honourd beloved and haply one a kind for husband shalt thou
 3.2    o confound the rest such love must need be treason in my breast in second husband let me be accurst none wed the second but who killd the first
-3.2    aside wormwood wormwood
+3.2    wormwood wormwood
 3.2    the instance that second marriage move are base respect of thrift but none of love a second time i kill my husband dead when second husband kiss me in bed
 3.2    i do believe you think what now you speak but what we do determine oft we break purpose is but the slave to memory of violent birth but poor validity which now like fruit unripe stick on the tree but fall unshaken when they mellow be most necessary ti that we forget to pay ourselves what to ourselves is debt what to ourselves in passion we propose the passion ending doth the purpose lose the violence of either grief or joy their own enactures with themselves destroy where joy most revel grief doth most lament grief joy joy grief on slender accident this world is not for aye nor ti not strange that even our love should with our fortune change for ti a question left u yet to prove whether love lead fortune or else fortune love the great man down you mark his favourite fly the poor advanced make friend of enemy and hitherto doth love on fortune tend for who not need shall never lack a friend and who in want a hollow friend doth try directly season him his enemy but orderly to end where i begun our will and fate do so contrary run that our device still are overthrown our thought are ours their end none of our own so think thou wilt no second husband wed but die thy thought when thy first lord is dead
 3.2    nor earth to me give food nor heaven light sport and repose lock from me day and night to desperation turn my trust and hope an anchor cheer in prison be my scope each opposite that blank the face of joy meet what i would have well and it destroy both here and hence pursue me lasting strife if once a widow ever i be wife
@@ -643,9 +643,9 @@
 3.3    my lord he going to his mother closet behind the arras ill convey myself to hear the process and warrant shell tax him home and a you said and wisely wa it said tis meet that some more audience than a mother since nature make them partial should oerhear the speech of vantage fare you well my liege ill call upon you ere you go to bed and tell you what i know
 3.3    thanks dear my lord o my offence is rank it smell to heaven it hath the primal eldest curse upont a brother murder pray can i not though inclination be a sharp a will my stronger guilt defeat my strong intent and like a man to double business bound i stand in pause where i shall first begin and both neglect what if this cursed hand were thicker than itself with brother blood is there not rain enough in the sweet heaven to wash it white a snow whereto serf mercy but to confront the visage of offence and whats in prayer but this twofold force to be forestalled ere we come to fall or pardond being down then ill look up my fault is past but o what form of prayer can serve my turn forgive me my foul murder that cannot be since i am still possessd of those effect for which i did the murder my crown mine own ambition and my queen may one be pardond and retain the offence in the corrupted current of this world offences gilded hand may shove by justice and oft ti seen the wicked prize itself buys out the law but ti not so above there is no shuffling there the action lie in his true nature and we ourselves compelld even to the teeth and forehead of our fault to give in evidence what then what rest try what repentance can what can it not yet what can it when one can not repent o wretched state o bosom black a death o limed soul that struggling to be free art more engaged help angel make assay bow stubborn knee and heart with string of steel be soft a sinew of the newborn babe all may be well
 3.3    now might i do it pat now he is praying and now ill dot and so he go to heaven and so am i revenged that would be scannd a villain kill my father and for that i his sole son do this same villain send to heaven o this is hire and salary not revenge he took my father grossly full of bread with all his crime broad blown a flush a may and how his audit stand who know save heaven but in our circumstance and course of thought tis heavy with him and am i then revenged to take him in the purging of his soul when he is fit and seasond for his passage no up sword and know thou a more horrid hent when he is drunk asleep or in his rage or in the incestuous pleasure of his bed at gaming swearing or about some act that ha no relish of salvation int then trip him that his heel may kick at heaven and that his soul may be a damnd and black as hell whereto it go my mother stay this physic but prolongs thy sickly day
-3.3    rising my word fly up my thought remain below words without thought never to heaven go
+3.3    my word fly up my thought remain below words without thought never to heaven go
 3.4    he will come straight look you lay home to him tell him his prank have been too broad to bear with and that your grace hath screend and stood between much heat and him ill sconce me even here pray you be round with him
-3.4    within mother mother mother
+3.4    mother mother mother
 3.4    ill warrant you fear me not withdraw i hear him coming
 3.4    now mother whats the matter
 3.4    hamlet thou hast thy father much offended
@@ -659,9 +659,9 @@
 3.4    nay then ill set those to you that can speak
 3.4    come come and sit you down you shall not budge you go not till i set you up a glass where you may see the inmost part of you
 3.4    what wilt thou do thou wilt not murder me help help ho
-3.4    behind what ho help help help
-3.4    drawing how now a rat dead for a ducat dead
-3.4    behind o i am slain
+3.4    what ho help help help
+3.4    how now a rat dead for a ducat dead
+3.4    o i am slain
 3.4    o me what hast thou done
 3.4    nay i know not is it the king
 3.4    o what a rash and bloody deed is this
@@ -708,7 +708,7 @@
 4.1    to draw apart the body he hath killd oer whom his very madness like some ore among a mineral of metal base shows itself pure he weeps for what is done
 4.1    o gertrude come away the sun no sooner shall the mountain touch but we will ship him hence and this vile deed we must with all our majesty and skill both countenance and excuse ho guildenstern friends both go join you with some further aid hamlet in madness hath polonius slain and from his mother closet hath he draggd him go seek him out speak fair and bring the body into the chapel i pray you haste in this come gertrude well call up our wisest friend and let them know both what we mean to do and whats untimely done o come away my soul is full of discord and dismay
 4.2    safely stowed
-4.2    within hamlet lord hamlet
+4.2    hamlet lord hamlet
 4.2    what noise who call on hamlet o here they come
 4.2    what have you done my lord with the dead body
 4.2    compounded it with dust whereto ti kin
@@ -776,13 +776,13 @@
 4.5    let her come in to my sick soul a sin true nature is each toy seems prologue to some great amiss so full of artless jealousy is guilt it spill itself in fearing to be spilt
 4.5    where is the beauteous majesty of denmark
 4.5    how now ophelia
-4.5    sings how should i your true love know from another one by his cockle hat and staff and his sandal shoon
+4.5    how should i your true love know from another one by his cockle hat and staff and his sandal shoon
 4.5    alas sweet lady what import this song
 4.5    say you nay pray you mark he is dead and gone lady he is dead and gone at his head a grassgreen turf at his heel a stone
 4.5    nay but ophelia
 4.5    pray you mark white his shroud a the mountain snow
 4.5    alas look here my lord
-4.5    sings larded with sweet flower which bewept to the grave did go with truelove shower
+4.5    larded with sweet flower which bewept to the grave did go with truelove shower
 4.5    how do you pretty lady
 4.5    well god ild you they say the owl wa a baker daughter lord we know what we are but know not what we may be god be at your table
 4.5    conceit upon her father
@@ -817,17 +817,17 @@
 4.5    will you know them then
 4.5    to his good friend thus wide ill ope my arm and like the kind liferendering pelican repast them with my blood
 4.5    why now you speak like a good child and a true gentleman that i am guiltless of your father death and am most sensible in grief for it it shall a level to your judgment pierce as day doe to your eye
-4.5    within let her come in
+4.5    let her come in
 4.5    how now what noise is that o heat dry up my brain tear seven time salt burn out the sense and virtue of mine eye by heaven thy madness shall be paid by weight till our scale turn the beam o rose of may dear maid kind sister sweet ophelia o heaven ist possible a young maid wit should be a moral a an old man life nature is fine in love and where ti fine it sends some precious instance of itself after the thing it love
-4.5    sings they bore him barefaced on the bier hey non nonny nonny hey nonny and in his grave raind many a tear fare you well my dove
+4.5    they bore him barefaced on the bier hey non nonny nonny hey nonny and in his grave raind many a tear fare you well my dove
 4.5    hadst thou thy wit and didst persuade revenge it could not move thus
-4.5    sings you must sing adown adown an you call him adowna o how the wheel becomes it it is the false steward that stole his master daughter
+4.5    you must sing adown adown an you call him adowna o how the wheel becomes it it is the false steward that stole his master daughter
 4.5    this nothing more than matter
 4.5    theres rosemary thats for remembrance pray love remember and there is pansy thats for thought
 4.5    a document in madness thought and remembrance fitted
 4.5    theres fennel for you and columbine there rue for you and here some for me we may call it herbgrace o sundays o you must wear your rue with a difference theres a daisy i would give you some violet but they withered all when my father died they say he made a good end for bonny sweet robin is all my joy
 4.5    thought and affliction passion hell itself she turn to favour and to prettiness
-4.5    sings and will he not come again and will he not come again no no he is dead go to thy deathbed he never will come again his beard wa a white a snow all flaxen wa his poll he is gone he is gone and we cast away moan god ha mercy on his soul and of all christian soul i pray god god be wi ye
+4.5    and will he not come again and will he not come again no no he is dead go to thy deathbed he never will come again his beard wa a white a snow all flaxen wa his poll he is gone he is gone and we cast away moan god ha mercy on his soul and of all christian soul i pray god god be wi ye
 4.5    do you see this o god
 4.5    laertes i must commune with your grief or you deny me right go but apart make choice of whom your wisest friend you will and they shall hear and judge twixt you and me if by direct or by collateral hand they find u touchd we will our kingdom give our crown our life and all that we can ours to you in satisfaction but if not be you content to lend your patience to u and we shall jointly labour with your soul to give it due content
 4.5    let this be so his mean of death his obscure funeral no trophy sword nor hatchment oer his bone no noble rite nor formal ostentation cry to be heard a twere from heaven to earth that i must callt in question
@@ -838,7 +838,7 @@
 4.6    god bless you sir
 4.6    let him bless thee too
 4.6    he shall sir ant please him theres a letter for you sir it come from the ambassador that wa bound for england if your name be horatio a i am let to know it is
-4.6    reads horatio when thou shalt have overlooked this give these fellow some mean to the king they have letter for him ere we were two day old at sea a pirate of very warlike appointment gave u chase finding ourselves too slow of sail we put on a compelled valour and in the grapple i boarded them on the instant they got clear of our ship so i alone became their prisoner they have dealt with me like thief of mercy but they knew what they did i am to do a good turn for them let the king have the letter i have sent and repair thou to me with a much speed a thou wouldst fly death i have word to speak in thine ear will make thee dumb yet are they much too light for the bore of the matter these good fellow will bring thee where i am rosencrantz and guildenstern hold their course for england of them i have much to tell thee farewell he that thou knowest thine hamlet come i will make you way for these your letter and dot the speedier that you may direct me to him from whom you brought them
+4.6    horatio when thou shalt have overlooked this give these fellow some mean to the king they have letter for him ere we were two day old at sea a pirate of very warlike appointment gave u chase finding ourselves too slow of sail we put on a compelled valour and in the grapple i boarded them on the instant they got clear of our ship so i alone became their prisoner they have dealt with me like thief of mercy but they knew what they did i am to do a good turn for them let the king have the letter i have sent and repair thou to me with a much speed a thou wouldst fly death i have word to speak in thine ear will make thee dumb yet are they much too light for the bore of the matter these good fellow will bring thee where i am rosencrantz and guildenstern hold their course for england of them i have much to tell thee farewell he that thou knowest thine hamlet come i will make you way for these your letter and dot the speedier that you may direct me to him from whom you brought them
 4.7    now must your conscience my acquaintance seal and you must put me in your heart for friend sith you have heard and with a knowing ear that he which hath your noble father slain pursued my life
 4.7    it well appears but tell me why you proceeded not against these feat so crimeful and so capital in nature as by your safety wisdom all thing else you mainly were stirrd up
 4.7    o for two special reason which may to you perhaps seem much unsinewd but yet to me they are strong the queen his mother lives almost by his look and for myself my virtue or my plague be it either which shes so conjunctive to my life and soul that a the star move not but in his sphere i could not but by her the other motive why to a public count i might not go is the great love the general gender bear him who dipping all his fault in their affection would like the spring that turneth wood to stone convert his gyves to grace so that my arrow too slightly timberd for so loud a wind would have reverted to my bow again and not where i had aimd them
@@ -907,13 +907,13 @@
 5.1    has this fellow no feeling of his business that he sings at gravemaking
 5.1    custom hath made it in him a property of easiness
 5.1    tis een so the hand of little employment hath the daintier sense
-5.1    sings but age with his stealing step hath clawd me in his clutch and hath shipped me intil the land as if i had never been such
+5.1    but age with his stealing step hath clawd me in his clutch and hath shipped me intil the land as if i had never been such
 5.1    that skull had a tongue in it and could sing once how the knave jowl it to the ground a if it were cains jawbone that did the first murder it might be the pate of a politician which this as now oerreaches one that would circumvent god might it not
 5.1    it might my lord
 5.1    or of a courtier which could say good morrow sweet lord how dost thou good lord this might be my lord suchaone that praised my lord suchaones horse when he meant to beg it might it not
 5.1    ay my lord
 5.1    why een so and now my lady worms chapless and knocked about the mazzard with a sexton spade here fine revolution an we had the trick to seet did these bone cost no more the breeding but to play at loggats with em mine ache to think ont
-5.1    sings a pickaxe and a spade a spade for and a shrouding sheet o a pit of clay for to be made for such a guest is meet
+5.1    a pickaxe and a spade a spade for and a shrouding sheet o a pit of clay for to be made for such a guest is meet
 5.1    theres another why may not that be the skull of a lawyer where be his quiddity now his quillets his case his tenure and his trick why doe he suffer this rude knave now to knock him about the sconce with a dirty shovel and will not tell him of his action of battery hum this fellow might be in time a great buyer of land with his statute his recognizance his fine his double voucher his recovery is this the fine of his fine and the recovery of his recovery to have his fine pate full of fine dirt will his voucher vouch him no more of his purchase and double one too than the length and breadth of a pair of indenture the very conveyance of his land will hardly lie in this box and must the inheritor himself have no more ha
 5.1    not a jot more my lord
 5.1    is not parchment made of sheepskin
@@ -973,7 +973,7 @@
 5.1    what the fair ophelia
 5.1    sweets to the sweet farewell i hoped thou shouldst have been my hamlets wife i thought thy bridebed to have deckd sweet maid and not have strewd thy grave
 5.1    o treble woe fall ten time treble on that cursed head whose wicked deed thy most ingenious sense deprived thee of hold off the earth awhile till i have caught her once more in mine arm now pile your dust upon the quick and dead till of this flat a mountain you have made to oertop old pelion or the skyish head of blue olympus
-5.1    advancing what is he whose grief bears such an emphasis whose phrase of sorrow conjures the wandering star and make them stand like wonderwounded hearer this is i hamlet the dane
+5.1    what is he whose grief bears such an emphasis whose phrase of sorrow conjures the wandering star and make them stand like wonderwounded hearer this is i hamlet the dane
 5.1    the devil take thy soul
 5.1    thou prayst not well i prithee take thy finger from my throat for though i am not splenitive and rash yet have i something in me dangerous which let thy wiseness fear hold off thy hand
 5.1    pluck them asunder
@@ -1096,12 +1096,12 @@
 5.2    good madam
 5.2    gertrude do not drink
 5.2    i will my lord i pray you pardon me
-5.2    aside it is the poisond cup it is too late
+5.2    it is the poisond cup it is too late
 5.2    i dare not drink yet madam by and by
 5.2    come let me wipe thy face
 5.2    my lord ill hit him now
 5.2    i do not thinkt
-5.2    aside and yet ti almost gainst my conscience
+5.2    and yet ti almost gainst my conscience
 5.2    come for the third laertes you but dally i pray you pas with your best violence i am afeard you make a wanton of me
 5.2    say you so come on
 5.2    nothing neither way

@@ -16,6 +16,7 @@ lines = []
 lemmatized_lines = []
 scenes = []
 valid_chars = re.compile(r"[A-Za-z0-9 ]")
+stage_directions = re.compile(r"\[\w+\]\s*")
 lemmatizer = WordNetLemmatizer()
 for i, quote in enumerate(blockquotes):
     children = quote.findChildren("a")
@@ -26,8 +27,12 @@ for i, quote in enumerate(blockquotes):
     initialtext = ""
     lemmatized_initialtext = ""
     for child in children:
-        section = child.text
-        lemmatized_section = "".join([c for c in child.text if valid_chars.match(c)])
+        if stage_directions.match(child.text):
+            span_end = stage_directions.match(child.text).span()[1]
+            section = child.text[span_end:]
+        else:
+            section = child.text
+        lemmatized_section = "".join([c for c in section if valid_chars.match(c)])
         initialtext += section.strip()
         initialtext += "\t"
         lemmatized_initialtext += lemmatized_section
@@ -38,7 +43,6 @@ for i, quote in enumerate(blockquotes):
         fulltext += lemmatizer.lemmatize(word)
         fulltext += " "
     lemmatized_lines.append(fulltext.strip().lower())
-print(lines)
 
 with open("hamlet.txt", "w") as fil:
     for i, line in enumerate(lines):
